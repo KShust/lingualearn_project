@@ -37,4 +37,4 @@ LinguaLearn is a web application designed to help users expand their vocabulary 
 
 ## Snapshot
 
-
+![Homepage Screenshot](https://github.com/KShust/lingualearn_project/blob/main/Screenshot%202025-03-12%20211939.png?raw=true)
